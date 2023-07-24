@@ -9,3 +9,5 @@ To achieve this mission, we offer a wide range of programs and services to stude
 One of the core focus of our academy is free training to affected marginalized students, we hold weekend training sessions and this year we are thrilled to announce that these training will be more structured and streamlined than ever before, thanks to the sponsorship of Google Research, TensorFlow and HausaNLP and Bayero University Kano. We are particularly focusing on underrepresented groups such as Women and Students from Arewa and communities affected by insecurity as part of our efforts to bridge the gap and bring equal opportunities to all.
 
 We invite you to join our community and be a part of our mission to empower marginalized students and build a more equitable future. Thank you for considering Arewa Data Science Academy!
+
+![](https://github.com/arewadataScience/arewadatascience.github.io/blob/main/images/arewads.jpg)
